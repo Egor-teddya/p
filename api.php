@@ -7,9 +7,9 @@ require 'rb-mysql.php';
 // define("DB_NAME", "vk-mini-app"); //Имя базы данных
 
 define("DB_HOST", "localhost"); //Сервер базы данных
-define("DB_USERNAME", "root"); //Пользователь базы данных
-define("DB_PASSWORD", "1"); //Пароль от пользователя базы данных
-define("DB_NAME", "1"); //Имя базы данных
+define("DB_USERNAME", "ch30042_11"); //Пользователь базы данных
+define("DB_PASSWORD", "asddsa1"); //Пароль от пользователя базы данных
+define("DB_NAME", "ch30042_11"); //Имя базы данных
 
 
 
